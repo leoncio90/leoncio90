@@ -1,14 +1,10 @@
-<h1 align="center">Olá, eu sou Jhonata Leôncio Pereira 👋</h1>
+# Olá, eu sou Jhonata Leôncio Pereira 👋
 
-<h3 align="center">Analista de Dados & RPA Developer em evolução para Engenharia de Dados</h3>
+### Analista de Dados & RPA Developer em evolução para Engenharia de Dados
 
-<div align="center">
+<img align="right" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="230" alt="Data doesn't lie">
 
-<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="480" alt="Coding GIF">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=38BDF8&width=650&lines=Data+Analysis+%7C+RPA+%7C+Automa%C3%A7%C3%A3o;Python+%7C+SQL+%7C+Power+BI+%7C+VBA;n8n+%7C+Docker+%7C+APIs+REST+%7C+Databricks;Em+evolu%C3%A7%C3%A3o+para+Data+Engineering)](https://git.io/typing-svg)
-
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=38BDF8&width=500&lines=Data+Analysis+%7C+RPA+%7C+Automa%C3%A7%C3%A3o;Python+%7C+SQL+%7C+Power+BI+%7C+VBA;n8n+%7C+Docker+%7C+APIs+%7C+Databricks;Em+evolu%C3%A7%C3%A3o+para+Data+Engineering)](https://git.io/typing-svg)
 
 Analista de Dados com pós-graduação em Ciência de Dados e Big Data Analytics, atuando com automação de processos, pipelines de dados e integração de sistemas. Especializado em transformar dados brutos em decisões estratégicas — e direcionando minha carreira para **Engenharia de Dados**, com foco em data ingestion, orquestração de workflows e cloud.
 
