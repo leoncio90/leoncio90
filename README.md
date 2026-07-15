@@ -100,10 +100,9 @@ Cloud & Infra      | Docker | Databricks | AWS | Google Cloud | SharePoint
 
 <div align="center">
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leoncio90&theme=tokyonight" alt="GitHub Stats">
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leoncio90&theme=tokyonight" alt="Linguagens mais usadas">
-
 <img src="https://streak-stats.demolab.com?user=leoncio90&theme=tokyonight&locale=pt_BR&hide_border=true" alt="GitHub Streak">
+
+<img src="github-metrics.svg" alt="Métricas do GitHub" width="100%">
 
 </div>
 
