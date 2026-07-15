@@ -100,8 +100,10 @@ Cloud & Infra      | Docker | Databricks | AWS | Google Cloud | SharePoint
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leoncio90&show_icons=true&theme=tokyonight&locale=pt-br)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoncio90&layout=compact&theme=tokyonight&locale=pt-br)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=leoncio90&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true" alt="GitHub Stats">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoncio90&layout=compact&theme=tokyonight&locale=pt-br&hide_border=true" alt="Top Langs">
+
+<img src="https://streak-stats.demolab.com?user=leoncio90&theme=tokyonight&locale=pt_BR&hide_border=true" alt="GitHub Streak">
 
 </div>
 
@@ -117,3 +119,4 @@ Cloud & Infra      | Docker | Databricks | AWS | Google Cloud | SharePoint
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonataleoncio/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jhonata.leoncio/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581995077087)
