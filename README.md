@@ -1,6 +1,6 @@
-# Olá, eu sou Jhonata Leôncio Pereira 👋
+<h1 align="center">Olá, eu sou Jhonata Leôncio Pereira 👋</h1>
 
-### Analista de Dados & RPA Developer em evolução para Engenharia de Dados
+<h3 align="center">Analista de Dados & RPA Developer em evolução para Engenharia de Dados</h3>
 
 <div align="center">
 
