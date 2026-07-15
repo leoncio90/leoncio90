@@ -102,7 +102,6 @@ Cloud & Infra      | Docker | Databricks | AWS | Google Cloud | SharePoint
 
 <img src="https://streak-stats.demolab.com?user=leoncio90&theme=tokyonight&locale=pt_BR&hide_border=true" alt="GitHub Streak">
 
-<img src="github-metrics.svg" alt="Métricas do GitHub" width="480">
 
 </div>
 
