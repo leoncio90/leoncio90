@@ -100,8 +100,8 @@ Cloud & Infra      | Docker | Databricks | AWS | Google Cloud | SharePoint
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=leoncio90&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true" alt="GitHub Stats">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoncio90&layout=compact&theme=tokyonight&locale=pt-br&hide_border=true" alt="Top Langs">
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leoncio90&theme=tokyonight" alt="GitHub Stats">
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leoncio90&theme=tokyonight" alt="Linguagens mais usadas">
 
 <img src="https://streak-stats.demolab.com?user=leoncio90&theme=tokyonight&locale=pt_BR&hide_border=true" alt="GitHub Streak">
 
