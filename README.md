@@ -91,8 +91,8 @@ Cloud & Infra      | Docker | Databricks | AWS | Google Cloud | SharePoint
 - 📦 [Otimização da Distribuição de Materiais Didáticos no RJ](https://github.com/leoncio90/Otimizacao_da_Distribuicao_de_Materiais_Didaticos_no_Rio_de_Janeiro) — otimização logística com Python
 - 🏠 [Projeto Airbnb — Engenharia Analítica](https://github.com/leoncio90/PYTHON---PROJETO_AIRBNB_ENGENHARIA_ANALITICA_SANTANDER-CODERS23) — Santander Coders 2023
 - 📉 [Classificação de Risco de Churn](https://github.com/leoncio90/CLASSIFICACAO_RISCO_DE_CHURN) — machine learning
-- ⚡ [Estatística Descritiva — Consumo de Equipamentos Elétricos](https://github.com/leoncio90/PYTHON---Estatistica_descritiva---Analise_do_consumo_de_equipamentos_eletricos)
-- 🔄 [Desafio ETL — Bootcamp TOTVS](https://github.com/leoncio90/DESAFIO_ETL_BOOTCAMP_TOTVS)
+- 🧩 [AcadOps — Pipeline Medalhão para Processos Acadêmicos](https://github.com/leoncio90/acadops-pipeline-medalhao) — engenharia de dados com Arquitetura Medalhão
+- 🤖 [Automação de Provisionamento no Active Directory](https://github.com/leoncio90/automacao-ad-alunos) — n8n, SQL Server, LDAP e PowerShell
 
 ---
 
@@ -100,7 +100,7 @@ Cloud & Infra      | Docker | Databricks | AWS | Google Cloud | SharePoint
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=leoncio90&theme=tokyonight&locale=pt_BR&hide_border=true" alt="GitHub Streak">
+<img src="https://streak-stats.demolab.com?user=leoncio90&theme=tokyonight&locale=pt_BR&hide_border=true" alt="GitHub Streak"><br><img src="https://raw.githubusercontent.com/leoncio90/leoncio90/main/github-metrics.svg" alt="GitHub Metrics"><br>
 
 
 </div>
