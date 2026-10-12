@@ -88,11 +88,12 @@ Cloud & Infra      | Docker | Databricks | AWS | Google Cloud | SharePoint
 
 ## Projetos em destaque
 
-- 📦 [Otimização da Distribuição de Materiais Didáticos no RJ](https://github.com/leoncio90/Otimizacao_da_Distribuicao_de_Materiais_Didaticos_no_Rio_de_Janeiro) — otimização logística com Python
-- 🏠 [Projeto Airbnb — Engenharia Analítica](https://github.com/leoncio90/PYTHON---PROJETO_AIRBNB_ENGENHARIA_ANALITICA_SANTANDER-CODERS23) — Santander Coders 2023
-- 📉 [Classificação de Risco de Churn](https://github.com/leoncio90/CLASSIFICACAO_RISCO_DE_CHURN) — machine learning
-- 🧩 [AcadOps — Pipeline Medalhão para Processos Acadêmicos](https://github.com/leoncio90/acadops-pipeline-medalhao) — engenharia de dados com Arquitetura Medalhão
-- 🤖 [Automação de Provisionamento no Active Directory](https://github.com/leoncio90/automacao-ad-alunos) — n8n, SQL Server, LDAP e PowerShell
+- 🧩 [AcadOps — Pipeline Medalhão para Processos Acadêmicos](https://github.com/leoncio90/acadops-pipeline-medalhao) — Engenharia de dados com Arquitetura Medalhão (Bronze/Silver/Gold), quarentena e observabilidade
+- 🤖 [Automação de Provisionamento no Active Directory](https://github.com/leoncio90/automacao-ad-alunos) — Automação corporativa com n8n, SQL Server, LDAP, PowerShell e M365
+- 📉 [NCbank Guardian — Previsão de Risco de Churn](https://github.com/leoncio90/ncbank-guardian) — Pipeline de Machine Learning (Random Forest) e dashboard estratégico em Power BI
+- 🏠 [Airbnb — Engenharia Analítica](https://github.com/leoncio90/airbnb-analytics-engineering) — Ingestão, modelagem e garantia de qualidade de dados com Docker e PostgreSQL
+- 📦 [Otimização Logística de Materiais Didáticos no RJ](https://github.com/leoncio90/otimizacao-logistica-rj) — Tratamento geoespacial e otimização de rotas de entrega com Python
+
 
 ---
 
